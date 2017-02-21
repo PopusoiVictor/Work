@@ -1,4 +1,2 @@
 # delete .txt
-*.txt
-# exclude everything
-commit/*
+!*.txt
