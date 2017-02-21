@@ -21,7 +21,7 @@
 *.a
 
 # Shared objects (inc. Windows DLLs) + Compiled Dynamic libraries
-
+*.dll
 *.so
 *.so.*
 *.dylib
