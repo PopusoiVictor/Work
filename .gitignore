@@ -1,7 +1,1 @@
-# Ignore files .txt
 *.txt
-# exlude
-!commit/
-
-commit/*
-!commit/
