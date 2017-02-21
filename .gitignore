@@ -1,6 +1,3 @@
-# Document files
-*.txt
-
 # Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
@@ -39,3 +36,7 @@
 # CodeBlocks artefacts
 *.depend
 *.layout
+=======
+commit/
+*.txt
+>>>>>>> parent of 1beab16... :(
